@@ -20,5 +20,5 @@ Para el desarrollo de dicho proyecto se publican los siguientes 13 videos del pa
 
 Al final debemos tener un proyecto así.
 
-![Proyecto Final, img1](https://github.com/rafaelguillermo/Calculadora-Android/blob/master/Screenshot_15.png)
-![Proyecto Final, img2](https://github.com/rafaelguillermo/Calculadora-Android/blob/master/Screenshot_16.png)
+![Proyecto Final, img1](https://github.com/rafaelguillermo/ProyectoEducativo-CalculadoraAndroid/blob/master/Screenshot_15.png)
+![Proyecto Final, img2](https://github.com/rafaelguillermo/ProyectoEducativo-CalculadoraAndroid/blob/master/Screenshot_16.png)
